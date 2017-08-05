@@ -26,7 +26,7 @@ document.onkeyup = function(event) {
         }
 
         else if (guessesLeft === 0) {
-            alert("You ain't foolin' nobody!");
+            alert("You ain't like Zoltar!");
             losses++;
             guessesLeft = 10;
             guessesThusFar.length = 0;
