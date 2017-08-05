@@ -1,0 +1,33 @@
+body {
+	box-sizing: border-box;
+	font: 18px/1.5 Georgia;
+	background: url("../images/zoltar.png");
+}
+
+.container {
+	width: 40%;
+	margin-left: 140px;
+	margin-top: 100px;
+}
+
+
+#heading {
+	background-color: #C6A45A;
+	font-size: 40px;
+	border-bottom: 2px groove #454232;
+}
+
+h1 {
+	font-size: 35px;
+	border-bottom: 1px solid black;
+}
+
+
+#game {
+	background-color: #C6A45A;
+	color: #E1E0DE;
+	font-size: 30px;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
